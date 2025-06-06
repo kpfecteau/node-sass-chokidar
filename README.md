@@ -1,4 +1,5 @@
 # Updates
+ - 2025-06-05: Forked to run last release of node-sass: v9
  - 2022-06-30: Major version 2.0.0 is released upgrading to node-sass 7.0.1 for node 16 & 17 compatibility
 
 # DEPRECATED
